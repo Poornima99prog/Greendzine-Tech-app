@@ -6,11 +6,12 @@
     </style>
 
     <style name="Theme.GREENDZINETECHAPP" parent="Base.Theme.GREENDZINETECHAPP" />
-<!--    <style name="Theme.AppCompat.SplashScreen" parent="Theme.splashScreen">-->
-<!--        <item name="android:windowSplashScreenAnimatedIcon">@color/white</item>-->
-<!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/icon</item>-->
-<!--        <item name="postSlapshScreen">Them\</item>-->
+<!--    <style name="Theme.app.Splashscreen" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenBackground">@color/green</item>-->
+<!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ani</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.GREENDZINETECHAPP</item>-->
 <!--    </style>-->
+
 
 
 
